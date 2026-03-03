@@ -1,9 +1,9 @@
 ---
-name: upgrade
+name: cm-upgrade
 description: |
   Update context-mode from GitHub and fix hooks/settings.
   Pulls latest, builds, installs, updates npm global, configures hooks.
-  Trigger: /context-mode:upgrade
+  Trigger: /context-mode:cm-upgrade
 user_invocable: true
 ---
 

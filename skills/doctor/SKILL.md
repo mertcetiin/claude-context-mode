@@ -1,9 +1,9 @@
 ---
-name: doctor
+name: cm-doctor
 description: |
   Run context-mode diagnostics. Checks runtimes, hooks, FTS5,
   plugin registration, npm and marketplace versions.
-  Trigger: /context-mode:doctor
+  Trigger: /context-mode:cm-doctor
 user_invocable: true
 ---
 
